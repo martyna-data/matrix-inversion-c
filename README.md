@@ -14,7 +14,7 @@ This project implements inversion of a square matrix using C. The program reads 
 
 - `macierz.cpp` – main logic and program entry
 - `matrix.c`, `matrix.h` – matrix operations (create, delete, print, transpose, determinant, inverse)
-- `example_input.txt` – example of matrix input
+- `macierz6x6-odwracanie.txt` – example of matrix input
 
 ## 🛠️ How to build and run
 
